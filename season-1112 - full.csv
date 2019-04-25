@@ -94,63 +94,63 @@ Month,Year,Period,Home,Away,Result,Stadium,Borough
 4,2012,1,Arsenal,Wigan,A,Emirates Stadium,Islington
 4,2012,1,Arsenal,Chelsea,D,Emirates Stadium,Islington
 5,2012,2,Arsenal,Norwich,D,Emirates Stadium,Islington
-8,2012,5,Fulham,Norwich,H,Craven Cottage,Hammersmith and Fulham
-8,2012,5,QPR,Swansea,A,Loftus Road,Hammersmith and Fulham
-8,2012,6,Chelsea,Reading,H,Stamford Bridge,Hammersmith and Fulham
-8,2012,6,Chelsea,Newcastle,H,Stamford Bridge,Hammersmith and Fulham
-9,2012,6,Fulham,West Brom,H,Craven Cottage,Hammersmith and Fulham
-9,2012,6,QPR,Chelsea,D,Loftus Road,Hammersmith and Fulham
-9,2012,7,Chelsea,Stoke,H,Stamford Bridge,Hammersmith and Fulham
-9,2012,7,Fulham,Man City,A,Craven Cottage,Hammersmith and Fulham
-10,2012,7,QPR,West Ham,A,Loftus Road,Hammersmith and Fulham
-10,2012,7,Chelsea,Norwich,H,Stamford Bridge,Hammersmith and Fulham
-10,2012,8,Fulham,Aston Villa,H,Craven Cottage,Hammersmith and Fulham
-10,2012,8,QPR,Everton,D,Loftus Road,Hammersmith and Fulham
-10,2012,8,Chelsea,Man United,A,Stamford Bridge,Hammersmith and Fulham
-11,2012,8,Fulham,Everton,D,Craven Cottage,Hammersmith and Fulham
-11,2012,8,QPR,Reading,D,Loftus Road,Hammersmith and Fulham
-11,2012,9,Chelsea,Liverpool,D,Stamford Bridge,Hammersmith and Fulham
-11,2012,9,QPR,Southampton,A,Loftus Road,Hammersmith and Fulham
-11,2012,9,Fulham,Sunderland,A,Craven Cottage,Hammersmith and Fulham
-11,2012,9,Chelsea,Man City,D,Stamford Bridge,Hammersmith and Fulham
-11,2012,9,Chelsea,Fulham,D,Stamford Bridge,Hammersmith and Fulham
-12,2012,9,Fulham,Tottenham,A,Craven Cottage,Hammersmith and Fulham
-12,2012,9,QPR,Aston Villa,D,Loftus Road,Hammersmith and Fulham
-12,2012,10,Fulham,Newcastle,H,Craven Cottage,Hammersmith and Fulham
-12,2012,10,QPR,Fulham,H,Loftus Road,Hammersmith and Fulham
-12,2012,10,Chelsea,Aston Villa,H,Stamford Bridge,Hammersmith and Fulham
-12,2012,10,Fulham,Southampton,D,Craven Cottage,Hammersmith and Fulham
-12,2012,10,QPR,West Brom,A,Loftus Road,Hammersmith and Fulham
-12,2012,10,Fulham,Swansea,A,Craven Cottage,Hammersmith and Fulham
-12,2012,10,QPR,Liverpool,A,Loftus Road,Hammersmith and Fulham
-1,2013,10,Chelsea,QPR,A,Stamford Bridge,Hammersmith and Fulham
-1,2013,11,Fulham,Wigan,D,Craven Cottage,Hammersmith and Fulham
-1,2013,11,QPR,Tottenham,D,Loftus Road,Hammersmith and Fulham
-1,2013,11,Chelsea,Southampton,D,Stamford Bridge,Hammersmith and Fulham
-1,2013,11,Chelsea,Arsenal,H,Stamford Bridge,Hammersmith and Fulham
-1,2013,11,QPR,Man City,D,Loftus Road,Hammersmith and Fulham
-1,2013,11,Fulham,West Ham,H,Craven Cottage,Hammersmith and Fulham
-2,2013,11,Fulham,Man United,A,Craven Cottage,Hammersmith and Fulham
-2,2013,11,QPR,Norwich,D,Loftus Road,Hammersmith and Fulham
-2,2013,12,Chelsea,Wigan,H,Stamford Bridge,Hammersmith and Fulham
-2,2013,12,Fulham,Stoke,H,Craven Cottage,Hammersmith and Fulham
-2,2013,12,QPR,Man United,A,Loftus Road,Hammersmith and Fulham
-3,2013,12,Chelsea,West Brom,H,Stamford Bridge,Hammersmith and Fulham
-3,2013,13,QPR,Sunderland,H,Loftus Road,Hammersmith and Fulham
-3,2013,13,Chelsea,West Ham,H,Stamford Bridge,Hammersmith and Fulham
-4,2013,1,Fulham,QPR,H,Craven Cottage,Hammersmith and Fulham
-4,2013,1,Chelsea,Sunderland,H,Stamford Bridge,Hammersmith and Fulham
-4,2013,1,QPR,Wigan,D,Loftus Road,Hammersmith and Fulham
-4,2013,1,Fulham,Chelsea,A,Craven Cottage,Hammersmith and Fulham
-4,2013,1,Fulham,Arsenal,A,Craven Cottage,Hammersmith and Fulham
-4,2013,1,QPR,Stoke,A,Loftus Road,Hammersmith and Fulham
-4,2013,2,Chelsea,Swansea,H,Stamford Bridge,Hammersmith and Fulham
-5,2013,2,Fulham,Reading,A,Craven Cottage,Hammersmith and Fulham
-5,2013,2,QPR,Arsenal,A,Loftus Road,Hammersmith and Fulham
-5,2013,2,Chelsea,Tottenham,D,Stamford Bridge,Hammersmith and Fulham
-5,2013,2,Fulham,Liverpool,A,Craven Cottage,Hammersmith and Fulham
-5,2013,2,QPR,Newcastle,A,Loftus Road,Hammersmith and Fulham
-5,2013,2,Chelsea,Everton,H,Stamford Bridge,Hammersmith and Fulham
+8,2012,5,Fulham,Norwich,H,Craven Cottage,Hammersmith & Fulham
+8,2012,5,QPR,Swansea,A,Loftus Road,Hammersmith & Fulham
+8,2012,6,Chelsea,Reading,H,Stamford Bridge,Hammersmith & Fulham
+8,2012,6,Chelsea,Newcastle,H,Stamford Bridge,Hammersmith & Fulham
+9,2012,6,Fulham,West Brom,H,Craven Cottage,Hammersmith & Fulham
+9,2012,6,QPR,Chelsea,D,Loftus Road,Hammersmith & Fulham
+9,2012,7,Chelsea,Stoke,H,Stamford Bridge,Hammersmith & Fulham
+9,2012,7,Fulham,Man City,A,Craven Cottage,Hammersmith & Fulham
+10,2012,7,QPR,West Ham,A,Loftus Road,Hammersmith & Fulham
+10,2012,7,Chelsea,Norwich,H,Stamford Bridge,Hammersmith & Fulham
+10,2012,8,Fulham,Aston Villa,H,Craven Cottage,Hammersmith & Fulham
+10,2012,8,QPR,Everton,D,Loftus Road,Hammersmith & Fulham
+10,2012,8,Chelsea,Man United,A,Stamford Bridge,Hammersmith & Fulham
+11,2012,8,Fulham,Everton,D,Craven Cottage,Hammersmith & Fulham
+11,2012,8,QPR,Reading,D,Loftus Road,Hammersmith & Fulham
+11,2012,9,Chelsea,Liverpool,D,Stamford Bridge,Hammersmith & Fulham
+11,2012,9,QPR,Southampton,A,Loftus Road,Hammersmith & Fulham
+11,2012,9,Fulham,Sunderland,A,Craven Cottage,Hammersmith & Fulham
+11,2012,9,Chelsea,Man City,D,Stamford Bridge,Hammersmith & Fulham
+11,2012,9,Chelsea,Fulham,D,Stamford Bridge,Hammersmith & Fulham
+12,2012,9,Fulham,Tottenham,A,Craven Cottage,Hammersmith & Fulham
+12,2012,9,QPR,Aston Villa,D,Loftus Road,Hammersmith & Fulham
+12,2012,10,Fulham,Newcastle,H,Craven Cottage,Hammersmith & Fulham
+12,2012,10,QPR,Fulham,H,Loftus Road,Hammersmith & Fulham
+12,2012,10,Chelsea,Aston Villa,H,Stamford Bridge,Hammersmith & Fulham
+12,2012,10,Fulham,Southampton,D,Craven Cottage,Hammersmith & Fulham
+12,2012,10,QPR,West Brom,A,Loftus Road,Hammersmith & Fulham
+12,2012,10,Fulham,Swansea,A,Craven Cottage,Hammersmith & Fulham
+12,2012,10,QPR,Liverpool,A,Loftus Road,Hammersmith & Fulham
+1,2013,10,Chelsea,QPR,A,Stamford Bridge,Hammersmith & Fulham
+1,2013,11,Fulham,Wigan,D,Craven Cottage,Hammersmith & Fulham
+1,2013,11,QPR,Tottenham,D,Loftus Road,Hammersmith & Fulham
+1,2013,11,Chelsea,Southampton,D,Stamford Bridge,Hammersmith & Fulham
+1,2013,11,Chelsea,Arsenal,H,Stamford Bridge,Hammersmith & Fulham
+1,2013,11,QPR,Man City,D,Loftus Road,Hammersmith & Fulham
+1,2013,11,Fulham,West Ham,H,Craven Cottage,Hammersmith & Fulham
+2,2013,11,Fulham,Man United,A,Craven Cottage,Hammersmith & Fulham
+2,2013,11,QPR,Norwich,D,Loftus Road,Hammersmith & Fulham
+2,2013,12,Chelsea,Wigan,H,Stamford Bridge,Hammersmith & Fulham
+2,2013,12,Fulham,Stoke,H,Craven Cottage,Hammersmith & Fulham
+2,2013,12,QPR,Man United,A,Loftus Road,Hammersmith & Fulham
+3,2013,12,Chelsea,West Brom,H,Stamford Bridge,Hammersmith & Fulham
+3,2013,13,QPR,Sunderland,H,Loftus Road,Hammersmith & Fulham
+3,2013,13,Chelsea,West Ham,H,Stamford Bridge,Hammersmith & Fulham
+4,2013,1,Fulham,QPR,H,Craven Cottage,Hammersmith & Fulham
+4,2013,1,Chelsea,Sunderland,H,Stamford Bridge,Hammersmith & Fulham
+4,2013,1,QPR,Wigan,D,Loftus Road,Hammersmith & Fulham
+4,2013,1,Fulham,Chelsea,A,Craven Cottage,Hammersmith & Fulham
+4,2013,1,Fulham,Arsenal,A,Craven Cottage,Hammersmith & Fulham
+4,2013,1,QPR,Stoke,A,Loftus Road,Hammersmith & Fulham
+4,2013,2,Chelsea,Swansea,H,Stamford Bridge,Hammersmith & Fulham
+5,2013,2,Fulham,Reading,A,Craven Cottage,Hammersmith & Fulham
+5,2013,2,QPR,Arsenal,A,Loftus Road,Hammersmith & Fulham
+5,2013,2,Chelsea,Tottenham,D,Stamford Bridge,Hammersmith & Fulham
+5,2013,2,Fulham,Liverpool,A,Craven Cottage,Hammersmith & Fulham
+5,2013,2,QPR,Newcastle,A,Loftus Road,Hammersmith & Fulham
+5,2013,2,Chelsea,Everton,H,Stamford Bridge,Hammersmith & Fulham
 8,2012,6,Tottenham,West Brom,D,White Hart Lane,Haringey
 9,2012,6,Tottenham,Norwich,D,White Hart Lane,Haringey
 9,2012,7,Tottenham,QPR,H,White Hart Lane,Haringey
@@ -210,233 +210,233 @@ Month,Year,Period,Home,Away,Result,Stadium,Borough
 5,2013,2,West Ham,Reading,H,Boleyn Ground,Newham
 8,2013,6,Arsenal,Aston Villa,A,Emirates Stadium,Islington
 8,2013,6,West Ham,Cardiff,H,Boleyn Ground,Newham
-8,2013,6,Chelsea,Hull,H,Stamford Bridge,Hammersmith and Fulham
+8,2013,6,Chelsea,Hull,H,Stamford Bridge,Hammersmith & Fulham
 8,2013,6,Crystal Palace,Tottenham,A,Selhurst Park,Croydon
-8,2013,6,Chelsea,Aston Villa,H,Stamford Bridge,Hammersmith and Fulham
-8,2013,6,Fulham,Arsenal,A,Craven Cottage,Hammersmith and Fulham
+8,2013,6,Chelsea,Aston Villa,H,Stamford Bridge,Hammersmith & Fulham
+8,2013,6,Fulham,Arsenal,A,Craven Cottage,Hammersmith & Fulham
 8,2013,6,Tottenham,Swansea,H,White Hart Lane,Haringey
 8,2013,6,Crystal Palace,Sunderland,H,Selhurst Park,Croydon
 8,2013,6,West Ham,Stoke,A,Boleyn Ground,Newham
 9,2013,6,Arsenal,Tottenham,H,Emirates Stadium,Islington
-9,2013,7,Fulham,West Brom,D,Craven Cottage,Hammersmith and Fulham
+9,2013,7,Fulham,West Brom,D,Craven Cottage,Hammersmith & Fulham
 9,2013,7,Tottenham,Norwich,H,White Hart Lane,Haringey
-9,2013,7,Chelsea,Fulham,H,Stamford Bridge,Hammersmith and Fulham
+9,2013,7,Chelsea,Fulham,H,Stamford Bridge,Hammersmith & Fulham
 9,2013,7,West Ham,Everton,A,Boleyn Ground,Newham
 9,2013,7,Arsenal,Stoke,H,Emirates Stadium,Islington
 9,2013,7,Crystal Palace,Swansea,A,Selhurst Park,Croydon
-9,2013,7,Fulham,Cardiff,A,Craven Cottage,Hammersmith and Fulham
+9,2013,7,Fulham,Cardiff,A,Craven Cottage,Hammersmith & Fulham
 9,2013,7,Tottenham,Chelsea,D,White Hart Lane,Haringey
-10,2013,7,Fulham,Stoke,H,Craven Cottage,Hammersmith and Fulham
+10,2013,7,Fulham,Stoke,H,Craven Cottage,Hammersmith & Fulham
 10,2013,7,Tottenham,West Ham,A,White Hart Lane,Haringey
 10,2013,8,Arsenal,Norwich,H,Emirates Stadium,Islington
-10,2013,8,Chelsea,Cardiff,H,Stamford Bridge,Hammersmith and Fulham
+10,2013,8,Chelsea,Cardiff,H,Stamford Bridge,Hammersmith & Fulham
 10,2013,8,West Ham,Man City,A,Boleyn Ground,Newham
 10,2013,8,Crystal Palace,Fulham,A,Selhurst Park,Croydon
 10,2013,8,Crystal Palace,Arsenal,A,Selhurst Park,Croydon
-10,2013,8,Chelsea,Man City,H,Stamford Bridge,Hammersmith and Fulham
+10,2013,8,Chelsea,Man City,H,Stamford Bridge,Hammersmith & Fulham
 10,2013,8,Tottenham,Hull,H,White Hart Lane,Haringey
 11,2013,8,Arsenal,Liverpool,H,Emirates Stadium,Islington
-11,2013,8,Fulham,Man United,A,Craven Cottage,Hammersmith and Fulham
+11,2013,8,Fulham,Man United,A,Craven Cottage,Hammersmith & Fulham
 11,2013,8,West Ham,Aston Villa,D,Boleyn Ground,Newham
-11,2013,8,Chelsea,West Brom,D,Stamford Bridge,Hammersmith and Fulham
+11,2013,8,Chelsea,West Brom,D,Stamford Bridge,Hammersmith & Fulham
 11,2013,8,Crystal Palace,Everton,D,Selhurst Park,Croydon
 11,2013,9,Tottenham,Newcastle,A,White Hart Lane,Haringey
 11,2013,9,Arsenal,Southampton,H,Emirates Stadium,Islington
-11,2013,9,Fulham,Swansea,A,Craven Cottage,Hammersmith and Fulham
+11,2013,9,Fulham,Swansea,A,Craven Cottage,Hammersmith & Fulham
 11,2013,9,West Ham,Chelsea,A,Boleyn Ground,Newham
 11,2013,9,West Ham,Fulham,H,Boleyn Ground,Newham
-12,2013,9,Chelsea,Southampton,H,Stamford Bridge,Hammersmith and Fulham
+12,2013,9,Chelsea,Southampton,H,Stamford Bridge,Hammersmith & Fulham
 12,2013,9,Tottenham,Man United,D,White Hart Lane,Haringey
 12,2013,9,Crystal Palace,West Ham,H,Selhurst Park,Croydon
 12,2013,9,Arsenal,Hull,H,Emirates Stadium,Islington
-12,2013,9,Fulham,Tottenham,A,Craven Cottage,Hammersmith and Fulham
+12,2013,9,Fulham,Tottenham,A,Craven Cottage,Hammersmith & Fulham
 12,2013,9,Crystal Palace,Cardiff,H,Selhurst Park,Croydon
 12,2013,10,Arsenal,Everton,D,Emirates Stadium,Islington
-12,2013,10,Fulham,Aston Villa,H,Craven Cottage,Hammersmith and Fulham
-12,2013,10,Chelsea,Crystal Palace,H,Stamford Bridge,Hammersmith and Fulham
+12,2013,10,Fulham,Aston Villa,H,Craven Cottage,Hammersmith & Fulham
+12,2013,10,Chelsea,Crystal Palace,H,Stamford Bridge,Hammersmith & Fulham
 12,2013,10,West Ham,Sunderland,D,Boleyn Ground,Newham
 12,2013,10,Tottenham,Liverpool,A,White Hart Lane,Haringey
 12,2013,10,Crystal Palace,Newcastle,A,Selhurst Park,Croydon
-12,2013,10,Fulham,Man City,A,Craven Cottage,Hammersmith and Fulham
+12,2013,10,Fulham,Man City,A,Craven Cottage,Hammersmith & Fulham
 12,2013,10,Arsenal,Chelsea,D,Emirates Stadium,Islington
-12,2013,10,Chelsea,Swansea,H,Stamford Bridge,Hammersmith and Fulham
+12,2013,10,Chelsea,Swansea,H,Stamford Bridge,Hammersmith & Fulham
 12,2013,10,Tottenham,West Brom,D,White Hart Lane,Haringey
 12,2013,10,West Ham,Arsenal,A,Boleyn Ground,Newham
 12,2013,10,West Ham,West Brom,D,Boleyn Ground,Newham
-12,2013,10,Chelsea,Liverpool,H,Stamford Bridge,Hammersmith and Fulham
+12,2013,10,Chelsea,Liverpool,H,Stamford Bridge,Hammersmith & Fulham
 12,2013,10,Tottenham,Stoke,H,White Hart Lane,Haringey
 1,2014,10,Arsenal,Cardiff,H,Emirates Stadium,Islington
 1,2014,10,Crystal Palace,Norwich,D,Selhurst Park,Croydon
-1,2014,10,Fulham,West Ham,H,Craven Cottage,Hammersmith and Fulham
-1,2014,11,Fulham,Sunderland,A,Craven Cottage,Hammersmith and Fulham
+1,2014,10,Fulham,West Ham,H,Craven Cottage,Hammersmith & Fulham
+1,2014,11,Fulham,Sunderland,A,Craven Cottage,Hammersmith & Fulham
 1,2014,11,Tottenham,Crystal Palace,H,White Hart Lane,Haringey
 1,2014,11,Arsenal,Fulham,H,Emirates Stadium,Islington
 1,2014,11,Crystal Palace,Stoke,H,Selhurst Park,Croydon
 1,2014,11,West Ham,Newcastle,A,Boleyn Ground,Newham
-1,2014,11,Chelsea,Man United,H,Stamford Bridge,Hammersmith and Fulham
+1,2014,11,Chelsea,Man United,H,Stamford Bridge,Hammersmith & Fulham
 1,2014,11,Crystal Palace,Hull,H,Selhurst Park,Croydon
-1,2014,11,Chelsea,West Ham,D,Stamford Bridge,Hammersmith and Fulham
+1,2014,11,Chelsea,West Ham,D,Stamford Bridge,Hammersmith & Fulham
 1,2014,11,Tottenham,Man City,A,White Hart Lane,Haringey
-2,2014,12,Fulham,Southampton,A,Craven Cottage,Hammersmith and Fulham
+2,2014,12,Fulham,Southampton,A,Craven Cottage,Hammersmith & Fulham
 2,2014,12,West Ham,Swansea,H,Boleyn Ground,Newham
 2,2014,12,Arsenal,Crystal Palace,H,Emirates Stadium,Islington
-2,2014,12,Chelsea,Newcastle,H,Stamford Bridge,Hammersmith and Fulham
+2,2014,12,Chelsea,Newcastle,H,Stamford Bridge,Hammersmith & Fulham
 2,2014,12,Crystal Palace,West Brom,H,Selhurst Park,Croydon
 2,2014,12,Tottenham,Everton,H,White Hart Lane,Haringey
 2,2014,12,West Ham,Norwich,H,Boleyn Ground,Newham
 2,2014,12,Arsenal,Man United,D,Emirates Stadium,Islington
-2,2014,12,Fulham,Liverpool,A,Craven Cottage,Hammersmith and Fulham
+2,2014,12,Fulham,Liverpool,A,Craven Cottage,Hammersmith & Fulham
 2,2014,12,Arsenal,Sunderland,H,Emirates Stadium,Islington
-2,2014,12,Chelsea,Everton,H,Stamford Bridge,Hammersmith and Fulham
+2,2014,12,Chelsea,Everton,H,Stamford Bridge,Hammersmith & Fulham
 2,2014,12,Crystal Palace,Man United,A,Selhurst Park,Croydon
 2,2014,12,West Ham,Southampton,H,Boleyn Ground,Newham
-3,2014,13,Fulham,Chelsea,A,Craven Cottage,Hammersmith and Fulham
+3,2014,13,Fulham,Chelsea,A,Craven Cottage,Hammersmith & Fulham
 3,2014,13,Tottenham,Cardiff,H,White Hart Lane,Haringey
-3,2014,13,Chelsea,Tottenham,H,Stamford Bridge,Hammersmith and Fulham
+3,2014,13,Chelsea,Tottenham,H,Stamford Bridge,Hammersmith & Fulham
 3,2014,13,Crystal Palace,Southampton,A,Selhurst Park,Croydon
-3,2014,13,Fulham,Newcastle,H,Craven Cottage,Hammersmith and Fulham
+3,2014,13,Fulham,Newcastle,H,Craven Cottage,Hammersmith & Fulham
 3,2014,13,Tottenham,Arsenal,A,White Hart Lane,Haringey
-3,2014,13,Chelsea,Arsenal,H,Stamford Bridge,Hammersmith and Fulham
+3,2014,13,Chelsea,Arsenal,H,Stamford Bridge,Hammersmith & Fulham
 3,2014,13,West Ham,Man United,A,Boleyn Ground,Newham
 3,2014,13,Tottenham,Southampton,H,White Hart Lane,Haringey
 3,2014,13,Arsenal,Swansea,D,Emirates Stadium,Islington
 3,2014,13,West Ham,Hull,H,Boleyn Ground,Newham
 3,2014,13,Arsenal,Man City,D,Emirates Stadium,Islington
 3,2014,13,Crystal Palace,Chelsea,H,Selhurst Park,Croydon
-3,2014,13,Fulham,Everton,A,Craven Cottage,Hammersmith and Fulham
-4,2014,1,Chelsea,Stoke,H,Stamford Bridge,Hammersmith and Fulham
+3,2014,13,Fulham,Everton,A,Craven Cottage,Hammersmith & Fulham
+4,2014,1,Chelsea,Stoke,H,Stamford Bridge,Hammersmith & Fulham
 4,2014,1,West Ham,Liverpool,A,Boleyn Ground,Newham
 4,2014,1,Tottenham,Sunderland,H,White Hart Lane,Haringey
 4,2014,1,Crystal Palace,Aston Villa,H,Selhurst Park,Croydon
-4,2014,1,Fulham,Norwich,H,Craven Cottage,Hammersmith and Fulham
+4,2014,1,Fulham,Norwich,H,Craven Cottage,Hammersmith & Fulham
 4,2014,1,Arsenal,West Ham,H,Emirates Stadium,Islington
-4,2014,1,Chelsea,Sunderland,A,Stamford Bridge,Hammersmith and Fulham
+4,2014,1,Chelsea,Sunderland,A,Stamford Bridge,Hammersmith & Fulham
 4,2014,1,Tottenham,Fulham,H,White Hart Lane,Haringey
 4,2014,1,West Ham,Crystal Palace,A,Boleyn Ground,Newham
-4,2014,1,Fulham,Hull,D,Craven Cottage,Hammersmith and Fulham
+4,2014,1,Fulham,Hull,D,Craven Cottage,Hammersmith & Fulham
 4,2014,2,Crystal Palace,Man City,A,Selhurst Park,Croydon
 4,2014,2,Arsenal,Newcastle,H,Emirates Stadium,Islington
 5,2014,2,West Ham,Tottenham,H,Boleyn Ground,Newham
 5,2014,2,Arsenal,West Brom,H,Emirates Stadium,Islington
-5,2014,2,Chelsea,Norwich,D,Stamford Bridge,Hammersmith and Fulham
+5,2014,2,Chelsea,Norwich,D,Stamford Bridge,Hammersmith & Fulham
 5,2014,2,Crystal Palace,Liverpool,D,Selhurst Park,Croydon
-5,2014,2,Fulham,Crystal Palace,D,Craven Cottage,Hammersmith and Fulham
+5,2014,2,Fulham,Crystal Palace,D,Craven Cottage,Hammersmith & Fulham
 5,2014,2,Tottenham,Aston Villa,H,White Hart Lane,Haringey
 8,2014,5,Arsenal,Crystal Palace,H,Emirates Stadium,Islington
-8,2014,5,QPR,Hull,A,Loftus Road,Hammersmith and Fulham
+8,2014,5,QPR,Hull,A,Loftus Road,Hammersmith & Fulham
 8,2014,5,West Ham,Tottenham,A,Boleyn Ground,Newham
-8,2014,6,Chelsea,Leicester,H,Stamford Bridge,Hammersmith and Fulham
+8,2014,6,Chelsea,Leicester,H,Stamford Bridge,Hammersmith & Fulham
 8,2014,6,Crystal Palace,West Ham,A,Selhurst Park,Croydon
 8,2014,6,Tottenham,QPR,H,White Hart Lane,Haringey
-8,2014,6,QPR,Sunderland,H,Loftus Road,Hammersmith and Fulham
+8,2014,6,QPR,Sunderland,H,Loftus Road,Hammersmith & Fulham
 8,2014,6,West Ham,Southampton,A,Boleyn Ground,Newham
 8,2014,6,Tottenham,Liverpool,A,White Hart Lane,Haringey
 9,2014,6,Arsenal,Man City,D,Emirates Stadium,Islington
-9,2014,6,Chelsea,Swansea,H,Stamford Bridge,Hammersmith and Fulham
+9,2014,6,Chelsea,Swansea,H,Stamford Bridge,Hammersmith & Fulham
 9,2014,6,Crystal Palace,Burnley,D,Selhurst Park,Croydon
-9,2014,7,QPR,Stoke,D,Loftus Road,Hammersmith and Fulham
+9,2014,7,QPR,Stoke,D,Loftus Road,Hammersmith & Fulham
 9,2014,7,West Ham,Liverpool,H,Boleyn Ground,Newham
 9,2014,7,Tottenham,West Brom,A,White Hart Lane,Haringey
 9,2014,7,Arsenal,Tottenham,D,Emirates Stadium,Islington
-9,2014,7,Chelsea,Aston Villa,H,Stamford Bridge,Hammersmith and Fulham
+9,2014,7,Chelsea,Aston Villa,H,Stamford Bridge,Hammersmith & Fulham
 9,2014,7,Crystal Palace,Leicester,H,Selhurst Park,Croydon
-10,2014,7,Chelsea,Arsenal,H,Stamford Bridge,Hammersmith and Fulham
+10,2014,7,Chelsea,Arsenal,H,Stamford Bridge,Hammersmith & Fulham
 10,2014,7,Tottenham,Southampton,H,White Hart Lane,Haringey
 10,2014,7,West Ham,QPR,H,Boleyn Ground,Newham
 10,2014,8,Arsenal,Hull,D,Emirates Stadium,Islington
 10,2014,8,Crystal Palace,Chelsea,A,Selhurst Park,Croydon
-10,2014,8,QPR,Liverpool,A,Loftus Road,Hammersmith and Fulham
+10,2014,8,QPR,Liverpool,A,Loftus Road,Hammersmith & Fulham
 10,2014,8,West Ham,Man City,H,Boleyn Ground,Newham
 10,2014,8,Tottenham,Newcastle,A,White Hart Lane,Haringey
-10,2014,8,QPR,Aston Villa,H,Loftus Road,Hammersmith and Fulham
+10,2014,8,QPR,Aston Villa,H,Loftus Road,Hammersmith & Fulham
 11,2014,8,Arsenal,Burnley,H,Emirates Stadium,Islington
-11,2014,8,Chelsea,QPR,H,Stamford Bridge,Hammersmith and Fulham
+11,2014,8,Chelsea,QPR,H,Stamford Bridge,Hammersmith & Fulham
 11,2014,8,Crystal Palace,Sunderland,A,Selhurst Park,Croydon
-11,2014,8,QPR,Man City,D,Loftus Road,Hammersmith and Fulham
+11,2014,8,QPR,Man City,D,Loftus Road,Hammersmith & Fulham
 11,2014,8,West Ham,Aston Villa,D,Boleyn Ground,Newham
 11,2014,9,Tottenham,Stoke,A,White Hart Lane,Haringey
 11,2014,9,Arsenal,Man United,A,Emirates Stadium,Islington
-11,2014,9,Chelsea,West Brom,H,Stamford Bridge,Hammersmith and Fulham
+11,2014,9,Chelsea,West Brom,H,Stamford Bridge,Hammersmith & Fulham
 11,2014,9,Crystal Palace,Liverpool,H,Selhurst Park,Croydon
-11,2014,9,QPR,Leicester,H,Loftus Road,Hammersmith and Fulham
+11,2014,9,QPR,Leicester,H,Loftus Road,Hammersmith & Fulham
 11,2014,9,West Ham,Newcastle,H,Boleyn Ground,Newham
 11,2014,9,Tottenham,Everton,H,White Hart Lane,Haringey
 12,2014,9,Crystal Palace,Aston Villa,A,Selhurst Park,Croydon
 12,2014,9,Arsenal,Southampton,H,Emirates Stadium,Islington
-12,2014,9,Chelsea,Tottenham,H,Stamford Bridge,Hammersmith and Fulham
-12,2014,9,QPR,Burnley,H,Loftus Road,Hammersmith and Fulham
+12,2014,9,Chelsea,Tottenham,H,Stamford Bridge,Hammersmith & Fulham
+12,2014,9,QPR,Burnley,H,Loftus Road,Hammersmith & Fulham
 12,2014,9,Tottenham,Crystal Palace,D,White Hart Lane,Haringey
 12,2014,10,West Ham,Swansea,H,Boleyn Ground,Newham
 12,2014,10,Arsenal,Newcastle,H,Emirates Stadium,Islington
-12,2014,10,Chelsea,Hull,H,Stamford Bridge,Hammersmith and Fulham
+12,2014,10,Chelsea,Hull,H,Stamford Bridge,Hammersmith & Fulham
 12,2014,10,Crystal Palace,Stoke,D,Selhurst Park,Croydon
-12,2014,10,QPR,West Brom,H,Loftus Road,Hammersmith and Fulham
+12,2014,10,QPR,West Brom,H,Loftus Road,Hammersmith & Fulham
 12,2014,10,Tottenham,Burnley,H,White Hart Lane,Haringey
 12,2014,10,West Ham,Leicester,H,Boleyn Ground,Newham
 12,2014,10,Arsenal,QPR,H,Emirates Stadium,Islington
-12,2014,10,Chelsea,West Ham,H,Stamford Bridge,Hammersmith and Fulham
+12,2014,10,Chelsea,West Ham,H,Stamford Bridge,Hammersmith & Fulham
 12,2014,10,Crystal Palace,Southampton,A,Selhurst Park,Croydon
-12,2014,10,QPR,Crystal Palace,D,Loftus Road,Hammersmith and Fulham
+12,2014,10,QPR,Crystal Palace,D,Loftus Road,Hammersmith & Fulham
 12,2014,10,Tottenham,Man United,D,White Hart Lane,Haringey
 12,2014,10,West Ham,Arsenal,A,Boleyn Ground,Newham
-1,2015,10,QPR,Swansea,D,Loftus Road,Hammersmith and Fulham
+1,2015,10,QPR,Swansea,D,Loftus Road,Hammersmith & Fulham
 1,2015,10,Tottenham,Chelsea,H,White Hart Lane,Haringey
 1,2015,10,West Ham,West Brom,D,Boleyn Ground,Newham
-1,2015,11,Chelsea,Newcastle,H,Stamford Bridge,Hammersmith and Fulham
+1,2015,11,Chelsea,Newcastle,H,Stamford Bridge,Hammersmith & Fulham
 1,2015,11,Crystal Palace,Tottenham,H,Selhurst Park,Croydon
 1,2015,11,Arsenal,Stoke,H,Emirates Stadium,Islington
-1,2015,11,QPR,Man United,A,Loftus Road,Hammersmith and Fulham
+1,2015,11,QPR,Man United,A,Loftus Road,Hammersmith & Fulham
 1,2015,11,Tottenham,Sunderland,H,White Hart Lane,Haringey
 1,2015,11,West Ham,Hull,H,Boleyn Ground,Newham
-1,2015,11,Chelsea,Man City,D,Stamford Bridge,Hammersmith and Fulham
+1,2015,11,Chelsea,Man City,D,Stamford Bridge,Hammersmith & Fulham
 1,2015,11,Crystal Palace,Everton,A,Selhurst Park,Croydon
 2,2015,12,Arsenal,Aston Villa,H,Emirates Stadium,Islington
-2,2015,12,QPR,Southampton,A,Loftus Road,Hammersmith and Fulham
+2,2015,12,QPR,Southampton,A,Loftus Road,Hammersmith & Fulham
 2,2015,12,Tottenham,Arsenal,H,White Hart Lane,Haringey
 2,2015,12,West Ham,Man United,D,Boleyn Ground,Newham
 2,2015,12,Arsenal,Leicester,H,Emirates Stadium,Islington
-2,2015,12,Chelsea,Everton,H,Stamford Bridge,Hammersmith and Fulham
+2,2015,12,Chelsea,Everton,H,Stamford Bridge,Hammersmith & Fulham
 2,2015,12,Crystal Palace,Newcastle,D,Selhurst Park,Croydon
-2,2015,12,Chelsea,Burnley,D,Stamford Bridge,Hammersmith and Fulham
+2,2015,12,Chelsea,Burnley,D,Stamford Bridge,Hammersmith & Fulham
 2,2015,12,Crystal Palace,Arsenal,A,Selhurst Park,Croydon
 2,2015,12,Tottenham,West Ham,D,White Hart Lane,Haringey
 2,2015,12,West Ham,Crystal Palace,A,Boleyn Ground,Newham
 3,2015,13,Arsenal,Everton,H,Emirates Stadium,Islington
-3,2015,13,QPR,Arsenal,A,Loftus Road,Hammersmith and Fulham
+3,2015,13,QPR,Arsenal,A,Loftus Road,Hammersmith & Fulham
 3,2015,13,Tottenham,Swansea,H,White Hart Lane,Haringey
 3,2015,13,West Ham,Chelsea,A,Boleyn Ground,Newham
-3,2015,13,QPR,Tottenham,A,Loftus Road,Hammersmith and Fulham
+3,2015,13,QPR,Tottenham,A,Loftus Road,Hammersmith & Fulham
 3,2015,13,Arsenal,West Ham,H,Emirates Stadium,Islington
 3,2015,13,Crystal Palace,QPR,H,Selhurst Park,Croydon
-3,2015,13,Chelsea,Southampton,D,Stamford Bridge,Hammersmith and Fulham
+3,2015,13,Chelsea,Southampton,D,Stamford Bridge,Hammersmith & Fulham
 3,2015,13,Tottenham,Leicester,H,White Hart Lane,Haringey
 3,2015,13,West Ham,Sunderland,H,Boleyn Ground,Newham
-3,2015,13,QPR,Everton,A,Loftus Road,Hammersmith and Fulham
+3,2015,13,QPR,Everton,A,Loftus Road,Hammersmith & Fulham
 4,2015,1,Arsenal,Liverpool,H,Emirates Stadium,Islington
-4,2015,1,Chelsea,Stoke,H,Stamford Bridge,Hammersmith and Fulham
+4,2015,1,Chelsea,Stoke,H,Stamford Bridge,Hammersmith & Fulham
 4,2015,1,Crystal Palace,Man City,H,Selhurst Park,Croydon
 4,2015,1,Tottenham,Aston Villa,A,White Hart Lane,Haringey
 4,2015,1,West Ham,Stoke,D,Boleyn Ground,Newham
-4,2015,1,QPR,Chelsea,A,Loftus Road,Hammersmith and Fulham
-4,2015,1,Chelsea,Man United,H,Stamford Bridge,Hammersmith and Fulham
+4,2015,1,QPR,Chelsea,A,Loftus Road,Hammersmith & Fulham
+4,2015,1,Chelsea,Man United,H,Stamford Bridge,Hammersmith & Fulham
 4,2015,1,Crystal Palace,West Brom,A,Selhurst Park,Croydon
 4,2015,1,Crystal Palace,Hull,A,Selhurst Park,Croydon
-4,2015,1,QPR,West Ham,D,Loftus Road,Hammersmith and Fulham
+4,2015,1,QPR,West Ham,D,Loftus Road,Hammersmith & Fulham
 4,2015,1,Arsenal,Chelsea,D,Emirates Stadium,Islington
 5,2015,1,West Ham,Burnley,H,Boleyn Ground,Newham
-5,2015,2,Chelsea,Crystal Palace,H,Stamford Bridge,Hammersmith and Fulham
+5,2015,2,Chelsea,Crystal Palace,H,Stamford Bridge,Hammersmith & Fulham
 5,2015,2,Tottenham,Man City,A,White Hart Lane,Haringey
 5,2015,2,Crystal Palace,Man United,A,Selhurst Park,Croydon
-5,2015,2,Chelsea,Liverpool,D,Stamford Bridge,Hammersmith and Fulham
+5,2015,2,Chelsea,Liverpool,D,Stamford Bridge,Hammersmith & Fulham
 5,2015,2,Arsenal,Swansea,A,Emirates Stadium,Islington
-5,2015,2,QPR,Newcastle,H,Loftus Road,Hammersmith and Fulham
+5,2015,2,QPR,Newcastle,H,Loftus Road,Hammersmith & Fulham
 5,2015,2,Tottenham,Hull,H,White Hart Lane,Haringey
 5,2015,2,West Ham,Everton,A,Boleyn Ground,Newham
 5,2015,2,Arsenal,Sunderland,D,Emirates Stadium,Islington
 5,2015,2,Arsenal,West Brom,H,Emirates Stadium,Islington
-5,2015,2,Chelsea,Sunderland,H,Stamford Bridge,Hammersmith and Fulham
+5,2015,2,Chelsea,Sunderland,H,Stamford Bridge,Hammersmith & Fulham
 5,2015,2,Crystal Palace,Swansea,H,Selhurst Park,Croydon
-8,2015,5,Chelsea,Swansea,D,Stamford Bridge,Hammersmith and Fulham
+8,2015,5,Chelsea,Swansea,D,Stamford Bridge,Hammersmith & Fulham
 8,2015,5,Arsenal,West Ham,A,Emirates Stadium,Islington
 8,2015,5,Tottenham,Stoke,D,White Hart Lane,Haringey
 8,2015,5,West Ham,Leicester,A,Boleyn Ground,Newham
@@ -444,42 +444,42 @@ Month,Year,Period,Home,Away,Result,Stadium,Borough
 8,2015,5,Crystal Palace,Aston Villa,H,Selhurst Park,Croydon
 8,2015,5,West Ham,Bournemouth,A,Boleyn Ground,Newham
 8,2015,6,Arsenal,Liverpool,D,Emirates Stadium,Islington
-8,2015,6,Chelsea,Crystal Palace,A,Stamford Bridge,Hammersmith and Fulham
+8,2015,6,Chelsea,Crystal Palace,A,Stamford Bridge,Hammersmith & Fulham
 8,2015,6,Tottenham,Everton,D,White Hart Lane,Haringey
 9,2015,6,Arsenal,Stoke,H,Emirates Stadium,Islington
 9,2015,6,Crystal Palace,Man City,A,Selhurst Park,Croydon
 9,2015,6,West Ham,Newcastle,H,Boleyn Ground,Newham
-9,2015,6,Chelsea,Arsenal,H,Stamford Bridge,Hammersmith and Fulham
+9,2015,6,Chelsea,Arsenal,H,Stamford Bridge,Hammersmith & Fulham
 9,2015,7,Tottenham,Crystal Palace,H,White Hart Lane,Haringey
 9,2015,7,Tottenham,Man City,H,White Hart Lane,Haringey
 9,2015,7,West Ham,Norwich,D,Boleyn Ground,Newham
-10,2015,7,Chelsea,Southampton,A,Stamford Bridge,Hammersmith and Fulham
+10,2015,7,Chelsea,Southampton,A,Stamford Bridge,Hammersmith & Fulham
 10,2015,7,Crystal Palace,West Brom,H,Selhurst Park,Croydon
 10,2015,7,Arsenal,Man United,H,Emirates Stadium,Islington
-10,2015,7,Chelsea,Aston Villa,H,Stamford Bridge,Hammersmith and Fulham
+10,2015,7,Chelsea,Aston Villa,H,Stamford Bridge,Hammersmith & Fulham
 10,2015,7,Crystal Palace,West Ham,A,Selhurst Park,Croydon
 10,2015,7,Tottenham,Liverpool,D,White Hart Lane,Haringey
 10,2015,8,Arsenal,Everton,H,Emirates Stadium,Islington
 10,2015,8,West Ham,Chelsea,H,Boleyn Ground,Newham
-10,2015,8,Chelsea,Liverpool,A,Stamford Bridge,Hammersmith and Fulham
+10,2015,8,Chelsea,Liverpool,A,Stamford Bridge,Hammersmith & Fulham
 10,2015,8,Crystal Palace,Man United,D,Selhurst Park,Croydon
 11,2015,8,Tottenham,Aston Villa,H,White Hart Lane,Haringey
 11,2015,8,West Ham,Everton,D,Boleyn Ground,Newham
 11,2015,8,Arsenal,Tottenham,D,Emirates Stadium,Islington
-11,2015,8,Chelsea,Norwich,H,Stamford Bridge,Hammersmith and Fulham
+11,2015,8,Chelsea,Norwich,H,Stamford Bridge,Hammersmith & Fulham
 11,2015,9,Tottenham,West Ham,H,White Hart Lane,Haringey
 11,2015,9,Crystal Palace,Sunderland,A,Selhurst Park,Croydon
 11,2015,9,Crystal Palace,Newcastle,H,Selhurst Park,Croydon
 11,2015,9,Tottenham,Chelsea,D,White Hart Lane,Haringey
 11,2015,9,West Ham,West Brom,D,Boleyn Ground,Newham
 12,2015,9,Arsenal,Sunderland,H,Emirates Stadium,Islington
-12,2015,9,Chelsea,Bournemouth,A,Stamford Bridge,Hammersmith and Fulham
+12,2015,9,Chelsea,Bournemouth,A,Stamford Bridge,Hammersmith & Fulham
 12,2015,9,Crystal Palace,Southampton,H,Selhurst Park,Croydon
 12,2015,9,West Ham,Stoke,D,Boleyn Ground,Newham
 12,2015,10,Tottenham,Newcastle,A,White Hart Lane,Haringey
-12,2015,10,Chelsea,Sunderland,H,Stamford Bridge,Hammersmith and Fulham
+12,2015,10,Chelsea,Sunderland,H,Stamford Bridge,Hammersmith & Fulham
 12,2015,10,Arsenal,Man City,H,Emirates Stadium,Islington
-12,2015,10,Chelsea,Watford,D,Stamford Bridge,Hammersmith and Fulham
+12,2015,10,Chelsea,Watford,D,Stamford Bridge,Hammersmith & Fulham
 12,2015,10,Tottenham,Norwich,H,White Hart Lane,Haringey
 12,2015,10,Arsenal,Bournemouth,H,Emirates Stadium,Islington
 12,2015,10,Crystal Palace,Swansea,D,Selhurst Park,Croydon
@@ -487,9 +487,9 @@ Month,Year,Period,Home,Away,Result,Stadium,Borough
 1,2016,10,Arsenal,Newcastle,H,Emirates Stadium,Islington
 1,2016,10,West Ham,Liverpool,H,Boleyn Ground,Newham
 1,2016,10,Crystal Palace,Chelsea,A,Selhurst Park,Croydon
-1,2016,11,Chelsea,West Brom,D,Stamford Bridge,Hammersmith and Fulham
+1,2016,11,Chelsea,West Brom,D,Stamford Bridge,Hammersmith & Fulham
 1,2016,11,Tottenham,Leicester,A,White Hart Lane,Haringey
-1,2016,11,Chelsea,Everton,D,Stamford Bridge,Hammersmith and Fulham
+1,2016,11,Chelsea,Everton,D,Stamford Bridge,Hammersmith & Fulham
 1,2016,11,Tottenham,Sunderland,H,White Hart Lane,Haringey
 1,2016,11,Crystal Palace,Tottenham,A,Selhurst Park,Croydon
 1,2016,11,West Ham,Man City,D,Boleyn Ground,Newham
@@ -498,18 +498,18 @@ Month,Year,Period,Home,Away,Result,Stadium,Borough
 2,2016,11,Crystal Palace,Bournemouth,A,Selhurst Park,Croydon
 2,2016,11,West Ham,Aston Villa,H,Boleyn Ground,Newham
 2,2016,11,Tottenham,Watford,H,White Hart Lane,Haringey
-2,2016,12,Chelsea,Man United,D,Stamford Bridge,Hammersmith and Fulham
-2,2016,12,Chelsea,Newcastle,H,Stamford Bridge,Hammersmith and Fulham
+2,2016,12,Chelsea,Man United,D,Stamford Bridge,Hammersmith & Fulham
+2,2016,12,Chelsea,Newcastle,H,Stamford Bridge,Hammersmith & Fulham
 2,2016,12,Crystal Palace,Watford,A,Selhurst Park,Croydon
 2,2016,12,Arsenal,Leicester,H,Emirates Stadium,Islington
 2,2016,12,West Ham,Sunderland,H,Boleyn Ground,Newham
 2,2016,12,Tottenham,Swansea,H,White Hart Lane,Haringey
 3,2016,12,Arsenal,Swansea,A,Emirates Stadium,Islington
 3,2016,12,West Ham,Tottenham,H,Boleyn Ground,Newham
-3,2016,12,Chelsea,Stoke,D,Stamford Bridge,Hammersmith and Fulham
+3,2016,12,Chelsea,Stoke,D,Stamford Bridge,Hammersmith & Fulham
 3,2016,12,Tottenham,Arsenal,D,White Hart Lane,Haringey
 3,2016,13,Crystal Palace,Liverpool,A,Selhurst Park,Croydon
-3,2016,13,Chelsea,West Ham,D,Stamford Bridge,Hammersmith and Fulham
+3,2016,13,Chelsea,West Ham,D,Stamford Bridge,Hammersmith & Fulham
 3,2016,13,Crystal Palace,Leicester,A,Selhurst Park,Croydon
 3,2016,13,Tottenham,Bournemouth,H,White Hart Lane,Haringey
 4,2016,1,Arsenal,Watford,H,Emirates Stadium,Islington
@@ -518,30 +518,30 @@ Month,Year,Period,Home,Away,Result,Stadium,Borough
 4,2016,1,West Ham,Arsenal,D,Boleyn Ground,Newham
 4,2016,1,Tottenham,Man United,H,White Hart Lane,Haringey
 4,2016,1,Crystal Palace,Everton,D,Selhurst Park,Croydon
-4,2016,1,Chelsea,Man City,A,Stamford Bridge,Hammersmith and Fulham
+4,2016,1,Chelsea,Man City,A,Stamford Bridge,Hammersmith & Fulham
 4,2016,1,Arsenal,Crystal Palace,D,Emirates Stadium,Islington
 4,2016,1,West Ham,Watford,H,Boleyn Ground,Newham
 4,2016,1,Arsenal,West Brom,H,Emirates Stadium,Islington
 4,2016,1,Tottenham,West Brom,D,White Hart Lane,Haringey
 4,2016,1,Arsenal,Norwich,H,Emirates Stadium,Islington
-5,2016,2,Chelsea,Tottenham,D,Stamford Bridge,Hammersmith and Fulham
+5,2016,2,Chelsea,Tottenham,D,Stamford Bridge,Hammersmith & Fulham
 5,2016,2,Crystal Palace,Stoke,H,Selhurst Park,Croydon
 5,2016,2,West Ham,Swansea,A,Boleyn Ground,Newham
 5,2016,2,Tottenham,Southampton,A,White Hart Lane,Haringey
 5,2016,2,West Ham,Man United,H,Boleyn Ground,Newham
 5,2016,2,Arsenal,Aston Villa,H,Emirates Stadium,Islington
-5,2016,2,Chelsea,Leicester,D,Stamford Bridge,Hammersmith and Fulham
+5,2016,2,Chelsea,Leicester,D,Stamford Bridge,Hammersmith & Fulham
 8,2016,5,Crystal Palace,West Brom,A,Selhurst Park,Croydon
 8,2016,5,Arsenal,Liverpool,A,Emirates Stadium,Islington
 8,2016,5,Tottenham,Crystal Palace,H,White Hart Lane,Haringey
-8,2016,5,Chelsea,West Ham,H,Stamford Bridge,Hammersmith and Fulham
+8,2016,5,Chelsea,West Ham,H,Stamford Bridge,Hammersmith & Fulham
 8,2016,6,West Ham,Bournemouth,H,London Stadium,Newham
-8,2016,6,Chelsea,Burnley,H,Stamford Bridge,Hammersmith and Fulham
+8,2016,6,Chelsea,Burnley,H,Stamford Bridge,Hammersmith & Fulham
 8,2016,6,Crystal Palace,Bournemouth,D,Selhurst Park,Croydon
 8,2016,6,Tottenham,Liverpool,D,White Hart Lane,Haringey
 9,2016,6,Arsenal,Southampton,H,Emirates Stadium,Islington
 9,2016,6,West Ham,Watford,A,London Stadium,Newham
-9,2016,6,Chelsea,Liverpool,A,Stamford Bridge,Hammersmith and Fulham
+9,2016,6,Chelsea,Liverpool,A,Stamford Bridge,Hammersmith & Fulham
 9,2016,7,Crystal Palace,Stoke,H,Selhurst Park,Croydon
 9,2016,7,Tottenham,Sunderland,H,White Hart Lane,Haringey
 9,2016,7,Arsenal,Chelsea,H,Emirates Stadium,Islington
@@ -549,25 +549,25 @@ Month,Year,Period,Home,Away,Result,Stadium,Borough
 10,2016,7,West Ham,Middlesbrough,D,London Stadium,Newham
 10,2016,7,Tottenham,Man City,H,White Hart Lane,Haringey
 10,2016,7,Arsenal,Swansea,H,Emirates Stadium,Islington
-10,2016,7,Chelsea,Leicester,H,Stamford Bridge,Hammersmith and Fulham
+10,2016,7,Chelsea,Leicester,H,Stamford Bridge,Hammersmith & Fulham
 10,2016,7,Crystal Palace,West Ham,A,Selhurst Park,Croydon
 10,2016,8,Arsenal,Middlesbrough,D,Emirates Stadium,Islington
 10,2016,8,West Ham,Sunderland,H,London Stadium,Newham
-10,2016,8,Chelsea,Man United,H,Stamford Bridge,Hammersmith and Fulham
+10,2016,8,Chelsea,Man United,H,Stamford Bridge,Hammersmith & Fulham
 10,2016,8,Crystal Palace,Liverpool,A,Selhurst Park,Croydon
 10,2016,8,Tottenham,Leicester,D,White Hart Lane,Haringey
-11,2016,8,Chelsea,Everton,H,Stamford Bridge,Hammersmith and Fulham
+11,2016,8,Chelsea,Everton,H,Stamford Bridge,Hammersmith & Fulham
 11,2016,8,West Ham,Stoke,D,London Stadium,Newham
 11,2016,8,Arsenal,Tottenham,D,Emirates Stadium,Islington
 11,2016,9,Crystal Palace,Man City,A,Selhurst Park,Croydon
 11,2016,9,Tottenham,West Ham,H,White Hart Lane,Haringey
-11,2016,9,Chelsea,Tottenham,H,Stamford Bridge,Hammersmith and Fulham
+11,2016,9,Chelsea,Tottenham,H,Stamford Bridge,Hammersmith & Fulham
 11,2016,9,Arsenal,Bournemouth,H,Emirates Stadium,Islington
 12,2016,9,Crystal Palace,Southampton,H,Selhurst Park,Croydon
 12,2016,9,Tottenham,Swansea,H,White Hart Lane,Haringey
 12,2016,9,West Ham,Arsenal,A,London Stadium,Newham
 12,2016,9,Arsenal,Stoke,H,Emirates Stadium,Islington
-12,2016,10,Chelsea,West Brom,H,Stamford Bridge,Hammersmith and Fulham
+12,2016,10,Chelsea,West Brom,H,Stamford Bridge,Hammersmith & Fulham
 12,2016,10,Crystal Palace,Man United,A,Selhurst Park,Croydon
 12,2016,10,Tottenham,Hull,H,White Hart Lane,Haringey
 12,2016,10,West Ham,Burnley,H,London Stadium,Newham
@@ -575,8 +575,8 @@ Month,Year,Period,Home,Away,Result,Stadium,Borough
 12,2016,10,West Ham,Hull,H,London Stadium,Newham
 12,2016,10,Tottenham,Burnley,H,White Hart Lane,Haringey
 12,2016,10,Arsenal,West Brom,H,Emirates Stadium,Islington
-12,2016,10,Chelsea,Bournemouth,H,Stamford Bridge,Hammersmith and Fulham
-12,2016,10,Chelsea,Stoke,H,Stamford Bridge,Hammersmith and Fulham
+12,2016,10,Chelsea,Bournemouth,H,Stamford Bridge,Hammersmith & Fulham
+12,2016,10,Chelsea,Stoke,H,Stamford Bridge,Hammersmith & Fulham
 1,2017,10,Arsenal,Crystal Palace,H,Emirates Stadium,Islington
 1,2017,10,West Ham,Man United,A,London Stadium,Newham
 1,2017,10,Crystal Palace,Swansea,A,Selhurst Park,Croydon
@@ -585,15 +585,15 @@ Month,Year,Period,Home,Away,Result,Stadium,Borough
 1,2017,11,West Ham,Crystal Palace,H,London Stadium,Newham
 1,2017,11,Crystal Palace,Everton,A,Selhurst Park,Croydon
 1,2017,11,Arsenal,Burnley,H,Emirates Stadium,Islington
-1,2017,11,Chelsea,Hull,H,Stamford Bridge,Hammersmith and Fulham
+1,2017,11,Chelsea,Hull,H,Stamford Bridge,Hammersmith & Fulham
 1,2017,11,Arsenal,Watford,A,Emirates Stadium,Islington
 2,2017,11,West Ham,Man City,A,London Stadium,Newham
-2,2017,11,Chelsea,Arsenal,H,Stamford Bridge,Hammersmith and Fulham
+2,2017,11,Chelsea,Arsenal,H,Stamford Bridge,Hammersmith & Fulham
 2,2017,11,Crystal Palace,Sunderland,A,Selhurst Park,Croydon
 2,2017,11,Tottenham,Middlesbrough,H,White Hart Lane,Haringey
 2,2017,12,Arsenal,Hull,H,Emirates Stadium,Islington
 2,2017,12,West Ham,West Brom,D,London Stadium,Newham
-2,2017,12,Chelsea,Swansea,H,Stamford Bridge,Hammersmith and Fulham
+2,2017,12,Chelsea,Swansea,H,Stamford Bridge,Hammersmith & Fulham
 2,2017,12,Crystal Palace,Middlesbrough,H,Selhurst Park,Croydon
 2,2017,12,Tottenham,Stoke,H,White Hart Lane,Haringey
 3,2017,13,Tottenham,Everton,H,White Hart Lane,Haringey
@@ -601,57 +601,57 @@ Month,Year,Period,Home,Away,Result,Stadium,Borough
 3,2017,13,Crystal Palace,Watford,H,Selhurst Park,Croydon
 3,2017,13,West Ham,Leicester,A,London Stadium,Newham
 3,2017,13,Tottenham,Southampton,H,White Hart Lane,Haringey
-4,2017,1,Chelsea,Crystal Palace,A,Stamford Bridge,Hammersmith and Fulham
+4,2017,1,Chelsea,Crystal Palace,A,Stamford Bridge,Hammersmith & Fulham
 4,2017,1,Arsenal,Man City,D,Emirates Stadium,Islington
 4,2017,1,Arsenal,West Ham,H,Emirates Stadium,Islington
-4,2017,1,Chelsea,Man City,H,Stamford Bridge,Hammersmith and Fulham
+4,2017,1,Chelsea,Man City,H,Stamford Bridge,Hammersmith & Fulham
 4,2017,1,Tottenham,Watford,H,White Hart Lane,Haringey
 4,2017,1,West Ham,Swansea,H,London Stadium,Newham
 4,2017,1,Crystal Palace,Arsenal,H,Selhurst Park,Croydon
 4,2017,1,Crystal Palace,Leicester,D,Selhurst Park,Croydon
 4,2017,1,Tottenham,Bournemouth,H,White Hart Lane,Haringey
 4,2017,1,West Ham,Everton,D,London Stadium,Newham
-4,2017,1,Chelsea,Southampton,H,Stamford Bridge,Hammersmith and Fulham
+4,2017,1,Chelsea,Southampton,H,Stamford Bridge,Hammersmith & Fulham
 4,2017,1,Arsenal,Leicester,H,Emirates Stadium,Islington
 4,2017,1,Crystal Palace,Tottenham,A,Selhurst Park,Croydon
 4,2017,1,Crystal Palace,Burnley,A,Selhurst Park,Croydon
 4,2017,2,Tottenham,Arsenal,H,White Hart Lane,Haringey
 5,2017,2,West Ham,Tottenham,H,London Stadium,Newham
 5,2017,2,Arsenal,Man United,H,Emirates Stadium,Islington
-5,2017,2,Chelsea,Middlesbrough,H,Stamford Bridge,Hammersmith and Fulham
+5,2017,2,Chelsea,Middlesbrough,H,Stamford Bridge,Hammersmith & Fulham
 5,2017,2,Crystal Palace,Hull,H,Selhurst Park,Croydon
 5,2017,2,Tottenham,Man United,H,White Hart Lane,Haringey
 5,2017,2,West Ham,Liverpool,A,London Stadium,Newham
-5,2017,2,Chelsea,Watford,H,Stamford Bridge,Hammersmith and Fulham
+5,2017,2,Chelsea,Watford,H,Stamford Bridge,Hammersmith & Fulham
 5,2017,2,Arsenal,Sunderland,H,Emirates Stadium,Islington
 5,2017,2,Arsenal,Everton,H,Emirates Stadium,Islington
-5,2017,2,Chelsea,Sunderland,H,Stamford Bridge,Hammersmith and Fulham
+5,2017,2,Chelsea,Sunderland,H,Stamford Bridge,Hammersmith & Fulham
 8,2017,5,Arsenal,Leicester,H,Emirates Stadium,Islington
-8,2017,5,Chelsea,Burnley,A,Stamford Bridge,Hammersmith and Fulham
+8,2017,5,Chelsea,Burnley,A,Stamford Bridge,Hammersmith & Fulham
 8,2017,5,Crystal Palace,Huddersfield,A,Selhurst Park,Croydon
 8,2017,6,Tottenham,Chelsea,A,Wembley Stadium,Brent
 8,2017,6,Crystal Palace,Swansea,A,Selhurst Park,Croydon
-8,2017,6,Chelsea,Everton,H,Stamford Bridge,Hammersmith and Fulham
+8,2017,6,Chelsea,Everton,H,Stamford Bridge,Hammersmith & Fulham
 8,2017,6,Tottenham,Burnley,D,Wembley Stadium,Brent
 9,2017,6,Arsenal,Bournemouth,H,Emirates Stadium,Islington
 9,2017,6,West Ham,Huddersfield,H,London Stadium,Newham
 9,2017,6,Crystal Palace,Southampton,A,Selhurst Park,Croydon
 9,2017,6,Tottenham,Swansea,D,Wembley Stadium,Brent
-9,2017,6,Chelsea,Arsenal,D,Stamford Bridge,Hammersmith and Fulham
+9,2017,6,Chelsea,Arsenal,D,Stamford Bridge,Hammersmith & Fulham
 9,2017,7,West Ham,Tottenham,A,London Stadium,Newham
 9,2017,7,Arsenal,West Brom,H,Emirates Stadium,Islington
-9,2017,7,Chelsea,Man City,A,Stamford Bridge,Hammersmith and Fulham
+9,2017,7,Chelsea,Man City,A,Stamford Bridge,Hammersmith & Fulham
 9,2017,7,West Ham,Swansea,H,London Stadium,Newham
 10,2017,7,Arsenal,Brighton,H,Emirates Stadium,Islington
 10,2017,7,Crystal Palace,Chelsea,H,Selhurst Park,Croydon
 10,2017,7,Tottenham,Bournemouth,H,Wembley Stadium,Brent
 10,2017,8,West Ham,Brighton,A,London Stadium,Newham
-10,2017,8,Chelsea,Watford,H,Stamford Bridge,Hammersmith and Fulham
+10,2017,8,Chelsea,Watford,H,Stamford Bridge,Hammersmith & Fulham
 10,2017,8,Tottenham,Liverpool,H,Wembley Stadium,Brent
 10,2017,8,Arsenal,Swansea,H,Emirates Stadium,Islington
 10,2017,8,Crystal Palace,West Ham,D,Selhurst Park,Croydon
 11,2017,8,West Ham,Liverpool,A,London Stadium,Newham
-11,2017,8,Chelsea,Man United,H,Stamford Bridge,Hammersmith and Fulham
+11,2017,8,Chelsea,Man United,H,Stamford Bridge,Hammersmith & Fulham
 11,2017,8,Tottenham,Crystal Palace,H,Wembley Stadium,Brent
 11,2017,9,Arsenal,Tottenham,H,Emirates Stadium,Islington
 11,2017,9,Crystal Palace,Everton,D,Selhurst Park,Croydon
@@ -659,9 +659,9 @@ Month,Year,Period,Home,Away,Result,Stadium,Borough
 11,2017,9,Crystal Palace,Stoke,H,Selhurst Park,Croydon
 11,2017,9,Tottenham,West Brom,D,Wembley Stadium,Brent
 11,2017,9,Arsenal,Huddersfield,H,Emirates Stadium,Islington
-11,2017,9,Chelsea,Swansea,H,Stamford Bridge,Hammersmith and Fulham
+11,2017,9,Chelsea,Swansea,H,Stamford Bridge,Hammersmith & Fulham
 12,2017,9,Arsenal,Man United,A,Emirates Stadium,Islington
-12,2017,9,Chelsea,Newcastle,H,Stamford Bridge,Hammersmith and Fulham
+12,2017,9,Chelsea,Newcastle,H,Stamford Bridge,Hammersmith & Fulham
 12,2017,9,Crystal Palace,Bournemouth,D,Selhurst Park,Croydon
 12,2017,9,Tottenham,Stoke,H,Wembley Stadium,Brent
 12,2017,9,West Ham,Chelsea,H,London Stadium,Newham
@@ -669,43 +669,43 @@ Month,Year,Period,Home,Away,Result,Stadium,Borough
 12,2017,10,Tottenham,Brighton,H,Wembley Stadium,Brent
 12,2017,10,West Ham,Arsenal,D,London Stadium,Newham
 12,2017,10,Arsenal,Newcastle,H,Emirates Stadium,Islington
-12,2017,10,Chelsea,Southampton,H,Stamford Bridge,Hammersmith and Fulham
+12,2017,10,Chelsea,Southampton,H,Stamford Bridge,Hammersmith & Fulham
 12,2017,10,Arsenal,Liverpool,D,Emirates Stadium,Islington
 12,2017,10,West Ham,Newcastle,A,London Stadium,Newham
-12,2017,10,Chelsea,Brighton,H,Stamford Bridge,Hammersmith and Fulham
+12,2017,10,Chelsea,Brighton,H,Stamford Bridge,Hammersmith & Fulham
 12,2017,10,Tottenham,Southampton,H,Wembley Stadium,Brent
 12,2017,10,Crystal Palace,Arsenal,A,Selhurst Park,Croydon
-12,2017,10,Chelsea,Stoke,H,Stamford Bridge,Hammersmith and Fulham
+12,2017,10,Chelsea,Stoke,H,Stamford Bridge,Hammersmith & Fulham
 12,2017,10,Crystal Palace,Man City,D,Selhurst Park,Croydon
 1,2018,10,West Ham,West Brom,H,London Stadium,Newham
 1,2018,10,Arsenal,Chelsea,D,Emirates Stadium,Islington
 1,2018,10,Tottenham,West Ham,D,Wembley Stadium,Brent
-1,2018,11,Chelsea,Leicester,D,Stamford Bridge,Hammersmith and Fulham
+1,2018,11,Chelsea,Leicester,D,Stamford Bridge,Hammersmith & Fulham
 1,2018,11,Crystal Palace,Burnley,H,Selhurst Park,Croydon
 1,2018,11,Tottenham,Everton,H,Wembley Stadium,Brent
 1,2018,11,Arsenal,Crystal Palace,H,Emirates Stadium,Islington
 1,2018,11,West Ham,Bournemouth,D,London Stadium,Newham
 1,2018,11,West Ham,Crystal Palace,D,London Stadium,Newham
-1,2018,11,Chelsea,Bournemouth,A,Stamford Bridge,Hammersmith and Fulham
+1,2018,11,Chelsea,Bournemouth,A,Stamford Bridge,Hammersmith & Fulham
 1,2018,11,Tottenham,Man United,H,Wembley Stadium,Brent
 2,2018,11,Arsenal,Everton,H,Emirates Stadium,Islington
 2,2018,12,Crystal Palace,Newcastle,D,Selhurst Park,Croydon
 2,2018,12,Tottenham,Arsenal,H,Wembley Stadium,Brent
 2,2018,12,West Ham,Watford,H,London Stadium,Newham
-2,2018,12,Chelsea,West Brom,H,Stamford Bridge,Hammersmith and Fulham
+2,2018,12,Chelsea,West Brom,H,Stamford Bridge,Hammersmith & Fulham
 2,2018,12,Crystal Palace,Tottenham,A,Selhurst Park,Croydon
 3,2018,12,Arsenal,Man City,A,Emirates Stadium,Islington
 3,2018,12,Tottenham,Huddersfield,H,Wembley Stadium,Brent
 3,2018,13,Crystal Palace,Man United,A,Selhurst Park,Croydon
-3,2018,13,Chelsea,Crystal Palace,H,Stamford Bridge,Hammersmith and Fulham
+3,2018,13,Chelsea,Crystal Palace,H,Stamford Bridge,Hammersmith & Fulham
 3,2018,13,West Ham,Burnley,A,London Stadium,Newham
 3,2018,13,Arsenal,Watford,H,Emirates Stadium,Islington
 3,2018,13,Crystal Palace,Liverpool,A,Selhurst Park,Croydon
 3,2018,13,West Ham,Southampton,H,London Stadium,Newham
 4,2018,1,Arsenal,Stoke,H,Emirates Stadium,Islington
-4,2018,1,Chelsea,Tottenham,A,Stamford Bridge,Hammersmith and Fulham
+4,2018,1,Chelsea,Tottenham,A,Stamford Bridge,Hammersmith & Fulham
 4,2018,1,Arsenal,Southampton,H,Emirates Stadium,Islington
-4,2018,1,Chelsea,West Ham,D,Stamford Bridge,Hammersmith and Fulham
+4,2018,1,Chelsea,West Ham,D,Stamford Bridge,Hammersmith & Fulham
 4,2018,1,Crystal Palace,Brighton,H,Selhurst Park,Croydon
 4,2018,1,Tottenham,Man City,A,Wembley Stadium,Brent
 4,2018,1,West Ham,Stoke,D,London Stadium,Newham
@@ -714,96 +714,96 @@ Month,Year,Period,Home,Away,Result,Stadium,Borough
 4,2018,1,West Ham,Man City,A,London Stadium,Newham
 4,2018,2,Tottenham,Watford,H,Wembley Stadium,Brent
 5,2018,2,Arsenal,Burnley,H,Emirates Stadium,Islington
-5,2018,2,Chelsea,Liverpool,H,Stamford Bridge,Hammersmith and Fulham
-5,2018,2,Chelsea,Huddersfield,D,Stamford Bridge,Hammersmith and Fulham
+5,2018,2,Chelsea,Liverpool,H,Stamford Bridge,Hammersmith & Fulham
+5,2018,2,Chelsea,Huddersfield,D,Stamford Bridge,Hammersmith & Fulham
 5,2018,2,Tottenham,Newcastle,H,Wembley Stadium,Brent
 5,2018,2,West Ham,Man United,D,London Stadium,Newham
 5,2018,2,Crystal Palace,West Brom,H,Selhurst Park,Croydon
 5,2018,2,Tottenham,Leicester,H,Wembley Stadium,Brent
 5,2018,2,West Ham,Everton,H,London Stadium,Newham
-8,2018,5,Fulham,Crystal Palace,A,Craven Cottage,Hammersmith and Fulham
+8,2018,5,Fulham,Crystal Palace,A,Craven Cottage,Hammersmith & Fulham
 8,2018,5,Arsenal,Man City,A,Emirates Stadium,Islington
-8,2018,5,Chelsea,Arsenal,H,Stamford Bridge,Hammersmith and Fulham
+8,2018,5,Chelsea,Arsenal,H,Stamford Bridge,Hammersmith & Fulham
 8,2018,5,Tottenham,Fulham,H,Wembley Stadium,Brent
 8,2018,5,West Ham,Bournemouth,A,London Stadium,Newham
 8,2018,6,Crystal Palace,Liverpool,A,Selhurst Park,Croydon
 8,2018,6,Arsenal,West Ham,H,Emirates Stadium,Islington
-8,2018,6,Fulham,Burnley,H,Craven Cottage,Hammersmith and Fulham
-9,2018,6,Chelsea,Bournemouth,H,Stamford Bridge,Hammersmith and Fulham
+8,2018,6,Fulham,Burnley,H,Craven Cottage,Hammersmith & Fulham
+9,2018,6,Chelsea,Bournemouth,H,Stamford Bridge,Hammersmith & Fulham
 9,2018,6,Crystal Palace,Southampton,A,Selhurst Park,Croydon
 9,2018,6,West Ham,Wolves,A,London Stadium,Newham
-9,2018,6,Chelsea,Cardiff,H,Stamford Bridge,Hammersmith and Fulham
+9,2018,6,Chelsea,Cardiff,H,Stamford Bridge,Hammersmith & Fulham
 9,2018,6,Tottenham,Liverpool,A,Wembley Stadium,Brent
 9,2018,7,Crystal Palace,Newcastle,D,Selhurst Park,Croydon
-9,2018,7,Fulham,Watford,D,Craven Cottage,Hammersmith and Fulham
+9,2018,7,Fulham,Watford,D,Craven Cottage,Hammersmith & Fulham
 9,2018,7,Arsenal,Everton,H,Emirates Stadium,Islington
 9,2018,7,West Ham,Chelsea,D,London Stadium,Newham
 9,2018,7,Arsenal,Watford,H,Emirates Stadium,Islington
-9,2018,7,Chelsea,Liverpool,D,Stamford Bridge,Hammersmith and Fulham
+9,2018,7,Chelsea,Liverpool,D,Stamford Bridge,Hammersmith & Fulham
 9,2018,7,West Ham,Man United,H,London Stadium,Newham
 10,2018,7,Crystal Palace,Wolves,A,Selhurst Park,Croydon
 10,2018,7,Tottenham,Cardiff,H,Wembley Stadium,Brent
-10,2018,7,Fulham,Arsenal,A,Craven Cottage,Hammersmith and Fulham
-10,2018,8,Chelsea,Man United,D,Stamford Bridge,Hammersmith and Fulham
+10,2018,7,Fulham,Arsenal,A,Craven Cottage,Hammersmith & Fulham
+10,2018,8,Chelsea,Man United,D,Stamford Bridge,Hammersmith & Fulham
 10,2018,8,West Ham,Tottenham,A,London Stadium,Newham
 10,2018,8,Arsenal,Leicester,H,Emirates Stadium,Islington
-10,2018,8,Fulham,Bournemouth,A,Craven Cottage,Hammersmith and Fulham
+10,2018,8,Fulham,Bournemouth,A,Craven Cottage,Hammersmith & Fulham
 10,2018,8,Crystal Palace,Arsenal,D,Selhurst Park,Croydon
 10,2018,8,Tottenham,Man City,A,Wembley Stadium,Brent
 11,2018,8,Arsenal,Liverpool,D,Emirates Stadium,Islington
 11,2018,8,West Ham,Burnley,H,London Stadium,Newham
-11,2018,8,Chelsea,Crystal Palace,H,Stamford Bridge,Hammersmith and Fulham
+11,2018,8,Chelsea,Crystal Palace,H,Stamford Bridge,Hammersmith & Fulham
 11,2018,8,Crystal Palace,Tottenham,A,Selhurst Park,Croydon
 11,2018,9,Arsenal,Wolves,D,Emirates Stadium,Islington
-11,2018,9,Chelsea,Everton,D,Stamford Bridge,Hammersmith and Fulham
-11,2018,9,Fulham,Southampton,H,Craven Cottage,Hammersmith and Fulham
+11,2018,9,Chelsea,Everton,D,Stamford Bridge,Hammersmith & Fulham
+11,2018,9,Fulham,Southampton,H,Craven Cottage,Hammersmith & Fulham
 11,2018,9,Tottenham,Chelsea,H,Wembley Stadium,Brent
 11,2018,9,West Ham,Man City,A,London Stadium,Newham
 12,2018,9,Crystal Palace,Burnley,H,Selhurst Park,Croydon
 12,2018,9,Arsenal,Tottenham,H,Emirates Stadium,Islington
-12,2018,9,Chelsea,Fulham,H,Stamford Bridge,Hammersmith and Fulham
+12,2018,9,Chelsea,Fulham,H,Stamford Bridge,Hammersmith & Fulham
 12,2018,9,West Ham,Cardiff,H,London Stadium,Newham
-12,2018,9,Fulham,Leicester,D,Craven Cottage,Hammersmith and Fulham
+12,2018,9,Fulham,Leicester,D,Craven Cottage,Hammersmith & Fulham
 12,2018,9,Tottenham,Southampton,H,Wembley Stadium,Brent
 12,2018,9,Arsenal,Huddersfield,H,Emirates Stadium,Islington
-12,2018,9,Chelsea,Man City,H,Stamford Bridge,Hammersmith and Fulham
+12,2018,9,Chelsea,Man City,H,Stamford Bridge,Hammersmith & Fulham
 12,2018,9,West Ham,Crystal Palace,H,London Stadium,Newham
 12,2018,10,Crystal Palace,Leicester,H,Selhurst Park,Croydon
-12,2018,10,Fulham,West Ham,A,Craven Cottage,Hammersmith and Fulham
+12,2018,10,Fulham,West Ham,A,Craven Cottage,Hammersmith & Fulham
 12,2018,10,Tottenham,Burnley,H,Wembley Stadium,Brent
 12,2018,10,Arsenal,Burnley,H,Emirates Stadium,Islington
-12,2018,10,Chelsea,Leicester,A,Stamford Bridge,Hammersmith and Fulham
+12,2018,10,Chelsea,Leicester,A,Stamford Bridge,Hammersmith & Fulham
 12,2018,10,West Ham,Watford,A,London Stadium,Newham
 12,2018,10,Crystal Palace,Cardiff,D,Selhurst Park,Croydon
-12,2018,10,Fulham,Wolves,D,Craven Cottage,Hammersmith and Fulham
+12,2018,10,Fulham,Wolves,D,Craven Cottage,Hammersmith & Fulham
 12,2018,10,Tottenham,Bournemouth,H,Wembley Stadium,Brent
-12,2018,10,Fulham,Huddersfield,H,Craven Cottage,Hammersmith and Fulham
+12,2018,10,Fulham,Huddersfield,H,Craven Cottage,Hammersmith & Fulham
 12,2018,10,Tottenham,Wolves,A,Wembley Stadium,Brent
 12,2018,10,Crystal Palace,Chelsea,A,Selhurst Park,Croydon
 1,2019,10,Arsenal,Fulham,H,Emirates Stadium,Islington
-1,2019,10,Chelsea,Southampton,D,Stamford Bridge,Hammersmith and Fulham
+1,2019,10,Chelsea,Southampton,D,Stamford Bridge,Hammersmith & Fulham
 1,2019,10,West Ham,Brighton,D,London Stadium,Newham
-1,2019,11,Chelsea,Newcastle,H,Stamford Bridge,Hammersmith and Fulham
+1,2019,11,Chelsea,Newcastle,H,Stamford Bridge,Hammersmith & Fulham
 1,2019,11,Crystal Palace,Watford,A,Selhurst Park,Croydon
 1,2019,11,West Ham,Arsenal,H,London Stadium,Newham
 1,2019,11,Tottenham,Man United,A,Wembley Stadium,Brent
 1,2019,11,Arsenal,Chelsea,H,Emirates Stadium,Islington
-1,2019,11,Fulham,Tottenham,A,Craven Cottage,Hammersmith and Fulham
+1,2019,11,Fulham,Tottenham,A,Craven Cottage,Hammersmith & Fulham
 1,2019,11,Arsenal,Cardiff,H,Emirates Stadium,Islington
-1,2019,11,Fulham,Brighton,H,Craven Cottage,Hammersmith and Fulham
+1,2019,11,Fulham,Brighton,H,Craven Cottage,Hammersmith & Fulham
 1,2019,11,Tottenham,Watford,H,Wembley Stadium,Brent
-2,2019,11,Chelsea,Huddersfield,H,Stamford Bridge,Hammersmith and Fulham
+2,2019,11,Chelsea,Huddersfield,H,Stamford Bridge,Hammersmith & Fulham
 2,2019,11,Crystal Palace,Fulham,H,Selhurst Park,Croydon
 2,2019,11,Tottenham,Newcastle,H,Wembley Stadium,Brent
 2,2019,12,West Ham,Liverpool,D,London Stadium,Newham
 2,2019,12,Crystal Palace,West Ham,D,Selhurst Park,Croydon
-2,2019,12,Fulham,Man United,A,Craven Cottage,Hammersmith and Fulham
+2,2019,12,Fulham,Man United,A,Craven Cottage,Hammersmith & Fulham
 2,2019,12,Tottenham,Leicester,H,Wembley Stadium,Brent
 2,2019,12,West Ham,Fulham,H,London Stadium,Newham
 2,2019,12,Arsenal,Southampton,H,Emirates Stadium,Islington
 2,2019,12,Arsenal,Bournemouth,H,Emirates Stadium,Islington
-2,2019,12,Chelsea,Tottenham,H,Stamford Bridge,Hammersmith and Fulham
+2,2019,12,Chelsea,Tottenham,H,Stamford Bridge,Hammersmith & Fulham
 2,2019,12,Crystal Palace,Man United,A,Selhurst Park,Croydon
 3,2019,12,Tottenham,Arsenal,D,Wembley Stadium,Brent
 3,2019,12,West Ham,Newcastle,H,London Stadium,Newham
-3,2019,13,Fulham,Chelsea,A,Craven Cottage,Hammersmith and Fulham
+3,2019,13,Fulham,Chelsea,A,Craven Cottage,Hammersmith & Fulham
