@@ -1,61 +1,61 @@
 Month,Year,Period,Home,Away,Result,Stadium,Borough
-8,2011,5,Fulham,Aston Villa,D,Craven Cottage,Hammersmith and Fulham
-8,2011,5,QPR,Bolton,A,Loftus Road,Hammersmith and Fulham
-8,2011,5,Chelsea,West Brom,H,Stamford Bridge,Hammersmith and Fulham
-8,2011,6,Chelsea,Norwich,H,Stamford Bridge,Hammersmith and Fulham
-9,2011,6,Fulham,Blackburn,D,Craven Cottage,Hammersmith and Fulham
-9,2011,6,QPR,Newcastle,D,Loftus Road,Hammersmith and Fulham
-9,2011,7,Fulham,Man City,D,Craven Cottage,Hammersmith and Fulham
-9,2011,7,Chelsea,Swansea,H,Stamford Bridge,Hammersmith and Fulham
-9,2011,7,QPR,Aston Villa,D,Loftus Road,Hammersmith and Fulham
-10,2011,7,Fulham,QPR,H,Craven Cottage,Hammersmith and Fulham
-10,2011,7,Chelsea,Everton,H,Stamford Bridge,Hammersmith and Fulham
-10,2011,7,QPR,Blackburn,D,Loftus Road,Hammersmith and Fulham
-10,2011,8,Fulham,Everton,A,Craven Cottage,Hammersmith and Fulham
-10,2011,8,QPR,Chelsea,H,Loftus Road,Hammersmith and Fulham
-10,2011,8,Chelsea,Arsenal,A,Stamford Bridge,Hammersmith and Fulham
-11,2011,8,QPR,Man City,A,Loftus Road,Hammersmith and Fulham
-11,2011,8,Fulham,Tottenham,A,Craven Cottage,Hammersmith and Fulham
-11,2011,9,Chelsea,Liverpool,A,Stamford Bridge,Hammersmith and Fulham
-11,2011,9,Chelsea,Wolves,H,Stamford Bridge,Hammersmith and Fulham
-12,2011,9,QPR,West Brom,D,Loftus Road,Hammersmith and Fulham
-12,2011,9,Fulham,Liverpool,H,Craven Cottage,Hammersmith and Fulham
-12,2011,10,Chelsea,Man City,H,Stamford Bridge,Hammersmith and Fulham
-12,2011,10,Fulham,Bolton,H,Craven Cottage,Hammersmith and Fulham
-12,2011,10,QPR,Man United,A,Loftus Road,Hammersmith and Fulham
-12,2011,10,Fulham,Man United,A,Craven Cottage,Hammersmith and Fulham
-12,2011,10,QPR,Sunderland,A,Loftus Road,Hammersmith and Fulham
-12,2011,10,Chelsea,Fulham,D,Stamford Bridge,Hammersmith and Fulham
-12,2011,10,Chelsea,Aston Villa,A,Stamford Bridge,Hammersmith and Fulham
-1,2012,10,Fulham,Arsenal,H,Craven Cottage,Hammersmith and Fulham
-1,2012,10,QPR,Norwich,A,Loftus Road,Hammersmith and Fulham
-1,2012,11,Chelsea,Sunderland,H,Stamford Bridge,Hammersmith and Fulham
-1,2012,11,Fulham,Newcastle,H,Craven Cottage,Hammersmith and Fulham
-1,2012,11,QPR,Wigan,H,Loftus Road,Hammersmith and Fulham
-2,2012,11,Fulham,West Brom,D,Craven Cottage,Hammersmith and Fulham
-2,2012,11,QPR,Wolves,A,Loftus Road,Hammersmith and Fulham
-2,2012,12,Chelsea,Man United,D,Stamford Bridge,Hammersmith and Fulham
-2,2012,12,Fulham,Stoke,H,Craven Cottage,Hammersmith and Fulham
-2,2012,12,Chelsea,Bolton,H,Stamford Bridge,Hammersmith and Fulham
-2,2012,12,QPR,Fulham,A,Loftus Road,Hammersmith and Fulham
-3,2012,12,QPR,Everton,D,Loftus Road,Hammersmith and Fulham
-3,2012,13,Fulham,Wolves,H,Craven Cottage,Hammersmith and Fulham
-3,2012,13,Chelsea,Stoke,H,Stamford Bridge,Hammersmith and Fulham
-3,2012,13,Fulham,Swansea,A,Craven Cottage,Hammersmith and Fulham
-3,2012,13,QPR,Liverpool,H,Loftus Road,Hammersmith and Fulham
-3,2012,13,Chelsea,Tottenham,D,Stamford Bridge,Hammersmith and Fulham
-3,2012,13,Fulham,Norwich,H,Craven Cottage,Hammersmith and Fulham
-3,2012,13,QPR,Arsenal,H,Loftus Road,Hammersmith and Fulham
-4,2012,1,Chelsea,Wigan,H,Stamford Bridge,Hammersmith and Fulham
-4,2012,1,Fulham,Chelsea,D,Craven Cottage,Hammersmith and Fulham
-4,2012,1,QPR,Swansea,H,Loftus Road,Hammersmith and Fulham
-4,2012,1,Fulham,Wigan,H,Craven Cottage,Hammersmith and Fulham
-4,2012,1,QPR,Tottenham,H,Loftus Road,Hammersmith and Fulham
-4,2012,2,Chelsea,QPR,H,Stamford Bridge,Hammersmith and Fulham
-5,2012,2,Chelsea,Newcastle,A,Stamford Bridge,Hammersmith and Fulham
-5,2012,2,Fulham,Sunderland,H,Craven Cottage,Hammersmith and Fulham
-5,2012,2,QPR,Stoke,H,Loftus Road,Hammersmith and Fulham
-5,2012,2,Chelsea,Blackburn,H,Stamford Bridge,Hammersmith and Fulham
+8,2011,5,Fulham,Aston Villa,D,Craven Cottage,Hammersmith & Fulham
+8,2011,5,QPR,Bolton,A,Loftus Road,Hammersmith & Fulham
+8,2011,5,Chelsea,West Brom,H,Stamford Bridge,Hammersmith & Fulham
+8,2011,6,Chelsea,Norwich,H,Stamford Bridge,Hammersmith & Fulham
+9,2011,6,Fulham,Blackburn,D,Craven Cottage,Hammersmith & Fulham
+9,2011,6,QPR,Newcastle,D,Loftus Road,Hammersmith & Fulham
+9,2011,7,Fulham,Man City,D,Craven Cottage,Hammersmith & Fulham
+9,2011,7,Chelsea,Swansea,H,Stamford Bridge,Hammersmith & Fulham
+9,2011,7,QPR,Aston Villa,D,Loftus Road,Hammersmith & Fulham
+10,2011,7,Fulham,QPR,H,Craven Cottage,Hammersmith & Fulham
+10,2011,7,Chelsea,Everton,H,Stamford Bridge,Hammersmith & Fulham
+10,2011,7,QPR,Blackburn,D,Loftus Road,Hammersmith & Fulham
+10,2011,8,Fulham,Everton,A,Craven Cottage,Hammersmith & Fulham
+10,2011,8,QPR,Chelsea,H,Loftus Road,Hammersmith & Fulham
+10,2011,8,Chelsea,Arsenal,A,Stamford Bridge,Hammersmith & Fulham
+11,2011,8,QPR,Man City,A,Loftus Road,Hammersmith & Fulham
+11,2011,8,Fulham,Tottenham,A,Craven Cottage,Hammersmith & Fulham
+11,2011,9,Chelsea,Liverpool,A,Stamford Bridge,Hammersmith & Fulham
+11,2011,9,Chelsea,Wolves,H,Stamford Bridge,Hammersmith & Fulham
+12,2011,9,QPR,West Brom,D,Loftus Road,Hammersmith & Fulham
+12,2011,9,Fulham,Liverpool,H,Craven Cottage,Hammersmith & Fulham
+12,2011,10,Chelsea,Man City,H,Stamford Bridge,Hammersmith & Fulham
+12,2011,10,Fulham,Bolton,H,Craven Cottage,Hammersmith & Fulham
+12,2011,10,QPR,Man United,A,Loftus Road,Hammersmith & Fulham
+12,2011,10,Fulham,Man United,A,Craven Cottage,Hammersmith & Fulham
+12,2011,10,QPR,Sunderland,A,Loftus Road,Hammersmith & Fulham
+12,2011,10,Chelsea,Fulham,D,Stamford Bridge,Hammersmith & Fulham
+12,2011,10,Chelsea,Aston Villa,A,Stamford Bridge,Hammersmith & Fulham
+1,2012,10,Fulham,Arsenal,H,Craven Cottage,Hammersmith & Fulham
+1,2012,10,QPR,Norwich,A,Loftus Road,Hammersmith & Fulham
+1,2012,11,Chelsea,Sunderland,H,Stamford Bridge,Hammersmith & Fulham
+1,2012,11,Fulham,Newcastle,H,Craven Cottage,Hammersmith & Fulham
+1,2012,11,QPR,Wigan,H,Loftus Road,Hammersmith & Fulham
+2,2012,11,Fulham,West Brom,D,Craven Cottage,Hammersmith & Fulham
+2,2012,11,QPR,Wolves,A,Loftus Road,Hammersmith & Fulham
+2,2012,12,Chelsea,Man United,D,Stamford Bridge,Hammersmith & Fulham
+2,2012,12,Fulham,Stoke,H,Craven Cottage,Hammersmith & Fulham
+2,2012,12,Chelsea,Bolton,H,Stamford Bridge,Hammersmith & Fulham
+2,2012,12,QPR,Fulham,A,Loftus Road,Hammersmith & Fulham
+3,2012,12,QPR,Everton,D,Loftus Road,Hammersmith & Fulham
+3,2012,13,Fulham,Wolves,H,Craven Cottage,Hammersmith & Fulham
+3,2012,13,Chelsea,Stoke,H,Stamford Bridge,Hammersmith & Fulham
+3,2012,13,Fulham,Swansea,A,Craven Cottage,Hammersmith & Fulham
+3,2012,13,QPR,Liverpool,H,Loftus Road,Hammersmith & Fulham
+3,2012,13,Chelsea,Tottenham,D,Stamford Bridge,Hammersmith & Fulham
+3,2012,13,Fulham,Norwich,H,Craven Cottage,Hammersmith & Fulham
+3,2012,13,QPR,Arsenal,H,Loftus Road,Hammersmith & Fulham
+4,2012,1,Chelsea,Wigan,H,Stamford Bridge,Hammersmith & Fulham
+4,2012,1,Fulham,Chelsea,D,Craven Cottage,Hammersmith & Fulham
+4,2012,1,QPR,Swansea,H,Loftus Road,Hammersmith & Fulham
+4,2012,1,Fulham,Wigan,H,Craven Cottage,Hammersmith & Fulham
+4,2012,1,QPR,Tottenham,H,Loftus Road,Hammersmith & Fulham
+4,2012,2,Chelsea,QPR,H,Stamford Bridge,Hammersmith & Fulham
+5,2012,2,Chelsea,Newcastle,A,Stamford Bridge,Hammersmith & Fulham
+5,2012,2,Fulham,Sunderland,H,Craven Cottage,Hammersmith & Fulham
+5,2012,2,QPR,Stoke,H,Loftus Road,Hammersmith & Fulham
+5,2012,2,Chelsea,Blackburn,H,Stamford Bridge,Hammersmith & Fulham
 8,2011,6,Tottenham,Man City,A,White Hart Lane,Haringey
 9,2011,7,Tottenham,Liverpool,H,White Hart Lane,Haringey
 10,2011,7,Tottenham,Arsenal,H,White Hart Lane,Haringey
