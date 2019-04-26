@@ -1,4 +1,4 @@
-Borough ,Year,Value
+Borough,Year,Value
 Barking and Dagenham,2011,100.7
 Barking and Dagenham,2012,90.5
 Barking and Dagenham,2013,82.9
@@ -185,9 +185,3 @@ Wandsworth,2013,71.6
 Wandsworth,2014,72.3
 Wandsworth,2015,74.1
 Wandsworth,2016,65.8
-Westminster,2011,302.0
-Westminster,2012,277.0
-Westminster,2013,238.3
-Westminster,2014,206.9
-Westminster,2015,203.1
-Westminster,2016,171.3
